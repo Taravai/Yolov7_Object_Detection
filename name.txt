@@ -1,0 +1,7 @@
+names:
+- blackheads
+- dark spot
+- nodules
+- papules
+- pustules
+- whiteheads
